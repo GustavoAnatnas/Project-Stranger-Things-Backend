@@ -23,4 +23,3 @@ class StrangerThingsService {
 }
 
 module.exports = StrangerThingsService;
-a
